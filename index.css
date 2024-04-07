@@ -1,5 +1,8 @@
-@media only screen and (max-device-width 900px) {
+@media only screen and (max-device-width 600px) {
     /* menu { width:600px; } */
+    .content {
+        width: 90%;
+    }
 }
 body {
     width: 100%;
