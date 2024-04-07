@@ -1,4 +1,4 @@
-@media only screen and (max-device-width 390px) {
+@media only screen and (max-device-width 390vw) {
     /* menu { width:600px; } */
     .content {
         width: 90%;
